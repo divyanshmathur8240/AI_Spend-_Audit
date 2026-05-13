@@ -1,0 +1,3 @@
+- Use this file to give workspace-specific guidance to Copilot.
+- Keep instructions short and related to repo setup and code generation.
+- Prefer TypeScript, Next.js, Tailwind, and lightweight app architecture.
